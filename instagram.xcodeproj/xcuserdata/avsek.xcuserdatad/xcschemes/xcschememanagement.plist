@@ -7,7 +7,25 @@
 		<key>instagram.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>48970103215E68E500057FD1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>48970117215E68E500057FD1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>48970122215E68E500057FD1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
